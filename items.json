@@ -1,0 +1,210 @@
+[
+	{
+		"id": "1",
+		"title": "SINO",
+		"description": "Um sino de bronze com um tinido ressonante.",
+		"action": [
+			"Ganhe 1 ponto de Sanidade agora. Perca 1 ponto de Sanidade se você perder o Sino",
+			"Uma vez durante seu turno, depois da Revelação, você pode tentar uma rolagem de Sanidade para usar o Sino:",
+			"5+ Move qualquer número de heróis desimpedidos 1 espaço em sua direção.",
+			"0-4 O traidor pode mover qualquer número de monstros 1 espaço em sua direção. (Se você é o traidor, este resultado não tem efeito.) Se não houver um traidor, todos os monstros se movem 1 espaço em sua direção."
+		]
+	},
+	{
+		"id": "2",
+		"title": "ADAGA SACRIFICIAL (arma)",
+		"description": "Um pedaço de ferro retorcido coberto com símbolos misteriosos e manchado com sangue.",
+		"action": [
+			"Quando fizer um ataque de Força com esta arma, você rola 3 dados extras (máximo de 8 dados), mas deve fazer uma rolagem de Conhecimento primeiro:",
+			"6+ Sem efeito.",
+			"3-5 Perca 1 ponto de um atributo mental.",
+			"0-2 A adaga se torce em sua mão! Sofra 2 dados de danos físicos. Você não pode atacar neste turno.",
+			"Você não pode usar outra arma enquanto estiver usando esta."
+		]
+	},
+	{
+		"id": "3",
+		"title": "CAIXA QUEBRA-CABEÇAS",
+		"description": "Deve haver uma forma de abri-la.",
+		"action": [
+			"Uma vez durante seu turno, você pode tentar uma rolagem de Conhecimento para abrir a caixa:",
+			"6+ Você abre a caixa. Compre 2 cartas de item e descarte a caixa Quebra-Cabeças.",
+			"0-5 Você simplesmente não consegue abri-la."
+		]
+	},
+	{
+		"id": "4",
+		"title": "LUVAS DE BATER CARTEIRAS",
+		"description": "Ajudar a você mesmo nunca pareceu tão fácil.",
+		"action": [
+			"Quando você estiver no mesmo cômodo que outro explorador, você pode descartar este item para pegar qualquer item que o explorador estiver carregando."
+		]
+	},
+	{
+		"id": "5",
+		"title": "PÉ DE COELHO",
+		"description": "Não deu tanta sorte para o coelho.",
+		"action": [
+			"Uma vez durante seu turno, você pode rerrolar 1 dado. Você deve ficar com a segunda rolagem."
+		]
+	},
+	{
+		"id": "6",
+		"title": "UNGUENTO CURATIVO",
+		"description": "Uma pasta viscosa numa tigela rasa.",
+		"action": [
+			"Você pode aplicar o Unguento Curativo em você mesmo ou em outro explorador vivo no mesmo cômodo. Se a Força ou a Rapidez do explorador estiver abaixo do valor inicial, aumente um ou ambos estes atributos até o valor inicial. Descarte este item após usá-lo."
+		]
+	},
+	{
+		"id": "7",
+		"title": "VELA",
+		"description": "Ela faz as sombras se moverem – pelo menos, você espera que esteja fazendo isso.",
+		"action": [
+			"Se você comprar uma carta de evento, role 1 dado adicional (máximo de 8 dados) para a rolagem de atributo deste evento. Se você tiver o Sino, o Livro e a Vela, ganhe 2 pontos em cada atributo. A primeira vez que você perder um destes 3 itens mais tarde no jogo, perca 2 pontos em cada atributo."
+		]
+	},
+	{
+		"id": "8",
+		"title": "ADAGA DE SANGUE (ARMA)",
+		"description": "Uma arma maligna. Agulhas e tubos se estendem de seu cabo... e penetram em suas veias.",
+		"action": [
+			"Você rola 3 dados adicionais (máximo de 8 dados) quando fizer um ataque de Força usando esta arma. Se o fizer, perca 1 ponto de Rapidez. Você não pode usar outra arma enquanto estiver usando esta. Este item não pode ser trocado ou derrubado. Se for roubado, receba 2 dados de dano físico."
+		]
+	},
+	{
+		"id": "9",
+		"title": "ARMADURA",
+		"description": "É apenas uma peça de exposição renascentista, mas ainda assim feita de metal.",
+		"action": [
+			"Toda vez (não apenas uma vez por turno) que você sofrer dano físico, receba 1 ponto a menos de dano. Este item não pode ser roubado."
+		]
+	},
+	{
+		"id": "10",
+		"title": "CAIXA DE MÚSICA",
+		"description": "Uma antiguidade feita a mão. Ela toca uma melodia assombrosa que penetra em sua mente.",
+		"action": [
+			"Uma vez por turno, você pode abrir ou fechar a Caixinha de Música. Enquanto a Caixinha de Música estiver aberta, qualquer explorador ou monstro com Sanidade que entrar ou iniciar o turno dele no mesmo cômodo devem fazer uma rolagem de Sanidade de 4+. Se falhar, o explorador ou monstro termina seu turno como que hipnotizado pela música. Se um explorador ou monstro carregando a Caixinha de Música for hipnotizado, ele derruba a Caixinha de Música. Se a Caixinha de Música estiver aberta quando for derrubada, ela continua aberta."
+		]
+	},
+	{
+		"id": "11",
+		"title": "DADOS SOMBRIOS",
+		"description": "Está com sorte?",
+		"action": [
+			"Uma vez por turno, você pode rolar 3 dados:",
+			"6 Mova-se até o cômodo de qualquer explorador que não tenha se revelado como traidor",
+			"5 Mova outro explorador no mesmo cômodo para um outro adjacente.",
+			"4 Ganhe 1 ponto em um atributo físico",
+			"3 Mova-se imediatamente para um cômodo adjacente (sem custo de movimento).",
+			"2 Ganhe 1 ponto em um atributo mental.",
+			"1 Compre uma carta de evento.",
+			"0 Reduza todos os seus atributos até o menor valor antes do símbolo do crânio.",
+			"Descarte os Dados Sombrios."
+		]
+	},
+	{
+		"id": "12",
+		"title": "KIT MÉDICO",
+		"description": "Uma maleta de médico, com alguns recursos essenciais esgotados.",
+		"action": [
+			"Uma vez durante seu turno, você pode tentar uma rolagem de Conhecimento para curar a si mesmo ou a outro explorador no mesmo cômodo:",
+			"8+ Ganhe até 3 pontos nos atributos físicos.",
+			"6-7 Ganhe até 2 pontos nos atributos físicos.",
+			"4-5 Ganhe 1 ponto num atributo físico.",
+			"0-3 Nada acontece.",
+			"Você não pode aumentar um atributo acima do valor inicial com o Kit Médico."
+		]
+	},
+	{
+		"id": "13",
+		"title": "MACHADO (ARMA)",
+		"description": "Muito afiado.",
+		"action": [
+			"Você rola 1 dado adicional (máximo de 8 dados) quando fizer ataques de Força com esta arma. Você não pode usar outra arma enquanto estiver usando esta."
+		]
+	},
+	{
+		"id": "14",
+		"title": "DINAMITE",
+		"description": "O pavio não foi aceso... ainda.",
+		"action": [
+			"Ao invés de atacar, você pode lançar a Dinamite por uma porta até um cômodo adjacente. Cada explorador e monstro com Força e Rapidez no cômodo devem tentar uma rolagem de Rapidez:",
+			"5+ Não sofre danos da Dinamite.",
+			"0-4 Recebe 4 pontos de dano físico.",
+			"Descarte este item depois de usá-lo."
+		]
+	},
+	{
+		"id": "15",
+		"title": "GARRAFA",
+		"description": "Um pequeno frasco opaco contendo um líquido negro.",
+		"action": [
+			"Uma vez durante seu turno, depois da Revelação, você pode rolar 3 dados e beber o conteúdo da Garrafa:",
+			"6 Escolha um cômodo e coloque seu explorador nele.",
+			"5 Ganhe 2 pontos de Força e 2 de Rapidez.",
+			"4 Ganhe 2 pontos de Conhecimento e 2 de Sanidade.",
+			"3 Ganhe 1 ponto de Conhecimento e perca 1 de Força.",
+			"2 Perca 2 pontos de Conhecimento e 2 de Sanidade",
+			"1 Perca 2 pontos de Força e 2 de Rapidez. 0 Perca 2 pontos de cada atributo.",
+			"Descarte este item depois de usá-lo."
+		]
+	},
+	{
+		"id": "16",
+		"title": "ÍDOLO",
+		"description": "Talvez ele o escolha para uma missão grandiosa. Como um sacrifício humano.",
+		"action": [
+			"Uma vez por turno, você pode esfregar o Ídolo antes de fazer qualquer rolagem de atributo, combate ou evento, para adicionar 2 dados à rolagem (até um máximo de 8 dados). Cada vez que o fizer, perca 1 ponto de Sanidade"
+		]
+	},
+	{
+		"id": "17",
+		"title": "PEDRA DA SORTE",
+		"description": "Uma pedra lisa, de aspecto comum. Você sente que ela lhe trará boa sorte.",
+		"action": [
+			"Depois de tentar uma rolagem de qualquer tipo, você pode esfregar a pedra uma vez para rerrolar qualquer número de dados nesta rolagem. Descarte este item depois de usá-lo."
+		]
+	},
+	{
+		"id": "18",
+		"title": "REVÓLVER (ARMA)",
+		"description": "Uma arma velha de aparência potente.",
+		"action": [
+			"Você pode usar o Revólver para atacar com Rapidez ao invés de Força. (Seu oponente então se defende com Rapidez e sofre danos físicos.) Role 1 dado adicional em seu ataque de Rapidez (máximo de 8 dados). Com o Revólver, você pode atacar qualquer um no mesmo cômodo ou dentro de sua linha de visão (através de uma linha ininterrupta de portas). Se você atacar alguém em outra sala e for derrotado, você não sofre nenhum dano. Você não pode usar outra arma enquanto estiver usando esta."
+		]
+	},
+	{
+		"id": "19",
+		"title": "SAIS PERFUMADOS",
+		"description": "Uau, são tão cheirosos.",
+		"action": [
+			"Se o seu Conhecimento ou de outro explorador vivo está abaixo do valor inicial, e ambos estiverem no mesmo cômodo, você pode aumentar este atributo até seu valor inicial usando os Sais Perfumados. Descarte este item depois de usá-lo."
+		]
+	},
+	{
+		"id": "20",
+		"title": "INJEÇÃO DE ADRENALINA",
+		"description": "Uma seringa contendo um estranho líquido fluorescente.",
+		"action": [
+			"Antes de tentar uma rolagem de atributo, você pode usar este item para adicionar 4 pontos ao resultado da rolagem. Descarte este item depois de usá-lo."
+		]
+	},
+	{
+		"id": "21",
+		"title": "AMULETO DAS ERAS",
+		"description": "Feito de prata antiga, ornado com gemas, e gravado com bênçãos.",
+		"action": [
+			"Ganhe 1 ponto de Força, 1 de Rapidez, 1 de Conhecimento e 1 de Sanidade agora. Perca 3 pontos de Força, 3 de Rapidez, 3 de Conhecimento e 3 de Sanidade se você perder o Amuleto."
+		]
+	},
+	{
+		"id": "22",
+		"title": "PENA DE ANJO",
+		"description": "Uma pena perfeita flutuando em sua mão.",
+		"action": [
+			"Quando você for tentar uma rolagem de qualquer tipo, você pode escolher um número de 0 a 8. Use este número ao invés daquele rolado nos dados. Descarte este item depois de usá-lo."
+		]
+	}
+]

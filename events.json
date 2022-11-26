@@ -1,0 +1,463 @@
+[
+	{
+		"id": "1",
+		"title": "Um momento de esperança",
+		"description": "Sente-se algo estranhamente bom neste cômodo. Algo está resistindo ao mal da casa.",
+		"action": [
+			"Coloque o marcador Abençoado (Blessing token) neste cômodo. Cada herói rola 1 dado adicional (máximo de 8 dados) em todas as rolagens de atributo enquanto estiver neste cômodo."
+		]
+	},
+	{
+		"id": "2",
+		"title": "ENTIDADE RAIVOSA",
+		"description": "Ele emerge do limo na parede próxima a você",
+		"action": [
+			"Você deve tentar uma rolagem de Rapidez:",
+			"5+ Você escapa. Ganhe 1 ponto de Rapidez.",
+			"2-4 Sofra 1 dado de danos mentais.",
+			"0-1 Sofra 1 dado de danos mentais e 1 dado de danos físicos."
+		]
+	},
+	{
+		"id": "3",
+		"title": "Visão Sangrenta",
+		"description": "As paredes deste cômodo estão úmidas com sangue. O sangue goteja do teto, escorre pelas paredes, cobre a mobília, e chega a seus sapatos. Numa piscadela, tudo se vai.",
+		"action": [
+			"Você deve tentar uma rolagem de Sanidade:",
+			"4+ Você se fortalece. Ganhe 1 ponto de Sanidade.",
+			"2-3 Perca 1 ponto de Sanidade.",
+			"0-1 Se um explorador ou monstro estiver em seu cômodo ou em um adjacente, você   atacá-lo (se puder). Escolha o explorador com a menor Força, se possível."
+		]
+	},
+	{
+		"id": "4",
+		"title": "Homem em Chamas",
+		"description": "Um homem em chamas corre através do cômodo. Sua pele borbulha e racha, caindo e revelando umesqueleto flamejante que se arrasta pelo chão, se sacode, rola, e desaparece.",
+		"action": [
+			"Você deve tentar uma rolagem de Sanidade:",
+			"4+ Você sente uma ardência sob o colarinho, mas tudo está bem. Ganhe 1 ponto de Sanidade.",
+			"2-3 Sair, sair, você deve sair. Coloque seu explorador no Saguão de Entrada.",
+			"0-1 Você irrompe em chamas! Sofra 1 dado de danos físicos. Então sofra 1 dado de danos mentais ao apagar as chamas."
+		]
+	},
+	{
+		"id": "5",
+		"title": "Porta do Cubículo",
+		"description": "A porta daquele cubículo está aberta... apenas uma fresta. Deve haver algo lá dentro. Coloque o marcador do Cubículo (Closet token) neste cômodo",
+		"action": [
+			"Uma vez durante o turno de um explorador, ele pode rolar 2 dados para abrir o Cubículo:",
+			"4 Compre uma carta de item.",
+			"2-3 Compre uma carta de evento.",
+			"0-1 Compre uma carta de evento e remova o marcador do Cubículo."
+		]
+	},
+	{
+		"id": "6",
+		"title": "Coisinhas Rastejantes",
+		"description": "Milhares de insetos espalham-se sobre sua pele, dentro das roupas e em seu cabelo.",
+		"action": [
+			"Você deve tentar uma rolagem de Sanidade:",
+			"5+ Você pisca, e tudo se vai. Ganhe 1 ponto de Sanidade.",
+			"1-4 Perca 1 ponto de Sanidade.",
+			"0 Perca 2 pontos de Sanidade."
+		]
+	},
+	{
+		"id": "7",
+		"title": "Marionete Arrepiante",
+		"description": "Você vê um daqueles bonecos que lhe deixam apreensivo. Ele salta em sua direção com uma pequena lança.",
+		"action": [
+			"O jogador à sua direita rola um ataque de Força 4 para a Marionete Arrepiante. Você se defende contra este ataque normalmente, rolando dados pela sua Força. Se você sofrer qualquer dano deste ataque, o explorador com a Lança ganha 2 pontos de Força (exceto se você tiver a Lança)."
+		]
+	},
+	{
+		"id": "8",
+		"title": "Escombros",
+		"description": "Argamassa cai das paredes e do teto.",
+		"action": [
+			"Você deve tentar uma rolagem de Rapidez:",
+			"3+ Você se desvia da argamassa. Ganhe 1 ponto de Rapidez.",
+			"1-2 Você foi soterrado pelos escombros. Sofra 1 dado de danos físicos.",
+			"0 Você foi soterrado pelos escombros. Sofra 2 dados de danos físicos. Se você foi soterrado, mantenha esta carta. Você não poderá fazer nada até se libertar. Uma vez durante o turno de um explorador, ele pode tentar uma rolagem de Força para libertar você. (Você também pode tentar esta rolagem.) Um 4+ é um sucesso. Após 3 tentativas falhas, você se liberta automaticamente em seu próximo turno, e o realiza normalmente. Descarte esta carta quando você estiver livre."
+		]
+	},
+	{
+		"id": "9",
+		"title": "Sons Inquietantes",
+		"description": "Um bebê chora, perdido e abandonado. Um grito. O estilhaçar de vidro quebrando. Então silêncio.",
+		"action": [
+			"Role 6 dados. Se o resultado for igual ou maior que o número de cartas de Presságio reveladas, você ganha 1 ponto de Sanidade. Se não, sofra 1 dado de danos mentais."
+		]
+	},
+	{
+		"id": "10",
+		"title": "Ping... Ping... Ping...",
+		"description": "Um som ritmado que alfineta seu cérebro.",
+		"action": [
+			"Coloque o marcador de Goteira (Drip token) neste cômodo.",
+			"Cada explorador rola 1 dado a menos (mínimo de 1 dado) em todas as rolagens de atributo enquanto estiver neste cômodo."
+		]
+	},
+	{
+		"id": "11",
+		"title": "Passos",
+		"description": "O assoalho range lentamente. A poeira aumenta. Pegadas aparecem no piso sujo. E então, ao alcançarem você, elas param.",
+		"action": [
+			"Role 1 dado. (Um explorador na Capela rola 1 dado adicional nesta rolagem.)",
+			"4 Você e o explorador mais próximo ganham 1 ponto de Força.",
+			"3 Você ganha 1 ponto de Força, e o explorador mais próximo perde 1 de Sanidade.",
+			"2 Perca 1 ponto de Sanidade.",
+			"1 Perca 1 ponto de Rapidez.",
+			"0 Cada explorador perde 1 ponto de um atributo de sua escolha."
+		]
+	},
+	{
+		"id": "12",
+		"title": "Funeral",
+		"description": "Você vê um caixão aberto. Você está dentro dele.",
+		"action": [
+			"Você deve tentar uma rolagem de Sanidade:",
+			"4+ Você pisca, e tudo se foi. Ganhe 1 ponto de Sanidade.",
+			"2-3 A visão o perturba. Perca 1 ponto de Sanidade.",
+			"0-1 Você realmente está no caixão. Perca 1 ponto de Sanidade e 1 de Força conforme você escava para sair. Se o Cemitério ou a Cripta foram encontrados, coloque seu explorador em um destes cômodos (você escolhe em qual)."
+		]
+	},
+	{
+		"id": "13",
+		"title": "Poeira Sombria",
+		"description": "Este cômodo está coberto por uma espessa camada de poeira. Você tosse quando ela atinge sua pele e seus pulmões.",
+		"action": [
+			"Você deve tentar uma rolagem de Força:",
+			"4+ Você se sacode. Ganhe 1 ponto de Força.",
+			"0-3 Algo está errado. Mantenha esta carta. Sofra 1 ponto de dano físico no começo de cada um de seus turnos. Descarte esta carta se uma carta de item aumentar um de seus atributos ou se você terminar seu turno na Sacada, nos Jardins, no Cemitério, no Ginásio, na Despensa, no Pátio, ou na Torre."
+		]
+	},
+	{
+		"id": "14",
+		"title": "Zelador",
+		"description": "Você se vira e vê um homem em roupas de zelador. Ele ergue sua pá e o encara. A milímetros de seu rosto, ele desaparece, deixando pegadas lamacentas, e nada mais.",
+		"action": [
+			"Você deve tentar uma rolagem de Conhecimento. (Um explorador nos Jardins tem 2 dados a menos nesta rolagem.)",
+			"4+ Você encontra algo na lama. Compre uma carta de item.",
+			"0-3 O zelador reaparece e o golpeia no rosto com a pá. O jogador à sua direita rola um ataque de Força 4 para o zelador. Você se defende normalmente contra este ataque, rolando dados pela sua Força."
+		]
+	},
+	{
+		"id": "15",
+		"title": "Homens Enforcados",
+		"description": "Uma brisa gela o cômodo. Diante de você, três homens pendem em cordas desgastadas. Eles o encaram com olhos frios, mortos. O trio balança silenciosamente, então se desfaz em poeira que cai ao chão. Você começa a sufocar",
+		"action": [
+			"Você deve tentar uma rolagem para cada atributo:",
+			"2+ O atributo não é afetado.",
+			"0-1 Perca 1 ponto do atributo. Se você rolar 2+ nas 4 rolagens, ganhe um ponto adicional num atributo de sua escolha."
+		]
+	},
+	{
+		"id": "16",
+		"title": "Grito Hediondo",
+		"description": "Começa como um murmúrio, mas termina com um grito de dilacerar a alma.",
+		"action": [
+			"Cada explorador deve tentar uma rolagem de Sanidade:",
+			"4+ Você resiste ao som.",
+			"1-3 Sofra 1 dado de danos mentais",
+			"0 Sofra 2 dados de danos mentais. Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "17",
+		"title": "Imagem no Espelho",
+		"description": "Se você não tiver nenhuma carta de ítem, este evento afeta o próximo explorador à sua esquerda com uma carta de ítem. Descarte esta carta se nenhum explorador tiver uma carta de ítem.",
+		"action": [
+			"Há um velho espelho neste cômodo. Seu reflexo assustado se move por conta própria. Você percebe que se trata de você em outro tempo. Você precisa ajudar seu reflexo, então você escreve no espelho: ISTO VAI AJUDAR. Você então lhe entrega um item através do espelho.",
+			"Escolha uma de suas cartas de itens (não de presságio) e coloque-a na pilha de itens. Então reembaralhe a pilha. Ganhe 1 ponto de Conhecimento."
+		]
+	},
+	{
+		"id": "18",
+		"title": "Imagem no Espelho",
+		"description": "",
+		"action": [
+			"Há um velho espelho neste cômodo. Seu reflexo assustado se move por conta própria. Você percebe que se trata de você em outro tempo. Seu reflexo escreve no espelho: ISTO VAI AJUDAR. Então ele entrega a você um item através do espelho. Compre uma carta de item."
+		]
+	},
+	{
+		"id": "19",
+		"title": "Está Destinado a Ser",
+		"description": "Você tomba ao chão, visões de eventos futuros atravessando sua mente.",
+		"action": [
+			"Escolha uma destas 2 opções:",
+			"• Você pode olhar as 3 peças ou cartas do topo de qualquer pilha. Se o fizer, arranje-os em qualquer ordem e recoloque-os no topo da pilha. Não diga a ninguém o resultado.",
+			"• Você pode escolher rolar 4 dados e anotar o resultado. Em uma rolagem futura de sua escolha, você pode usar este resultado ao invés de fazer a rolagem. Se o número for maior que o máximo resultado possível, considere como resultado o número máximo."
+		]
+	},
+	{
+		"id": "20",
+		"title": "A Vez de Jonah",
+		"description": "Dois garotos estão brincando com um pião de madeira. “Gostaria de tentar uma vez, Jonah?”, um deles pergunta. “Não,” responde Jonah, “Eu quero todas as vezes.” Jonah pega o pião e acerta o outro garoto no rosto. O garoto cai. Jonah continua acertando-o conforme eles vão desaparecendo de vista",
+		"action": [
+			"Se um explorador tiver a Caixa Quebra-Cabeças, ele a descarta e compra um novo item. Se isto ocorrer, você ganha 1 ponto de Sanidade; do contrário, você sofre 1 dado de danos mentais."
+		]
+	},
+	{
+		"id": "21",
+		"title": "Luzes Apagadas",
+		"description": "Sua lanterna se apaga. Não se preocupe, alguém deve ter pilhas.",
+		"action": [
+			"Mantenha esta carta. Você pode se mover apenas 1 espaço em cada turno até terminar um de seus turnos no mesmo cômodo com outro explorador. No fim deste turno, descarte esta carta. Então você poderá se mover normalmente outra vez.",
+			"Se você tiver a Vela ou terminar seu turno na Sala da Fornalha, descarte esta carta."
+		]
+	},
+	{
+		"id": "22",
+		"title": "Cofre Trancado",
+		"description": "Atrás de uma pintura está um cofre embutido na parede. Está trancado, é claro. Coloque o marcador do Cofre (Safe token) neste cômodo.",
+		"action": [
+			"Uma vez durante o turno de um explorador, ele pode tentar uma rolagem de Conhecimento para abrir o Cofre:",
+			"5+ Compre 2 cartas de item e remova o marcador do Cofre.",
+			"2-4 Sofra 1 dado de danos físicos. O Cofre não abre.",
+			"0-1 Sofra 2 dados de danos físicos. O Cofre não abre."
+		]
+	},
+	{
+		"id": "23",
+		"title": "Névoas das Paredes",
+		"description": "Névoas emanam das paredes. Há rostos na névoa, humanos e... inumanos.",
+		"action": [
+			"Cada explorador no Subsolo deve tentar uma rolagem de Sanidade:",
+			"4+ Os rostos são ilusões de ótica. Tudo está bem.",
+			"1-3 Sofra 1 dado de danos mentais (e 1 dado adicional se o explorador estiver num cômodo com um símbolo de evento).",
+			"0 Sofra 1 dado de danos mentais (e 2 dados adicionais se o explorador estiver num cômodo com um símbolo de evento).",
+			"Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "24",
+		"title": "Escorregador Místico",
+		"description": "Se você estiver no subsolo, este evento afeta o próximo explorador à sua esquerda que não esteja no subsolo. Descarte esta carta se todos os exploradores estão no subsolo.",
+		"action": [
+			"O chão cede sob seus pés. Coloque o marcador do Escorregador (Slide token) neste cômodo, então tente uma rolagem de Força para usar o Escorregador",
+			"5+ Você controla o Escorregador. Vá para qualquer cômodo explorado em qualquer andar abaixo do Escorregador.",
+			"0-4 Compre peças da pilha de cômodos até encontrar um de Subsolo. Coloque-o em jogo. (Se não houver nenhum cômodo de Subsolo na pilha, escolha um em jogo.) Você cai neste cômodo e sofre 1 dado de danos físicos. Se não for seu turno, não compre uma carta para aquele cômodo. Em turnos posteriores, qualquer explorador pode tentar esta rolagem para usar o Escorregador"
+		]
+	},
+	{
+		"id": "25",
+		"title": "Visão Noturna",
+		"description": "Você tem a visão de um casal fantasmagórico vagando pela área, girando silenciosamente em seu baile de casamento.",
+		"action": [
+			"Você deve tentar uma rolagem de Conhecimento:",
+			"5+ Você reconhece os fantasmas como antigos moradores da casa. Você os chama, eles se viram para você, sussurrando segredos sombrios da casa. Ganhe 1 ponto de Conhecimento.",
+			"0-4 Você lhes dá as costas, horrorizado, incapaz de assistir."
+		]
+	},
+	{
+		"id": "26",
+		"title": "Ligação Telefônica",
+		"description": "Um telefone toca no cômodo. Você se sente obrigado a atender.",
+		"action": [
+			"Role 2 dados. Uma doce voz de vovozinha diz:",
+			"4 “Chá com bolinhos! Chá com bolinhos! Vocês sempre foram meus favorito!” Ganhe 1 ponto de Sanidade.",
+			"3 “Eu sempre estive aqui por vocês, Empadinhas. Observando...” Ganhe 1 ponto de Conhecimento.",
+			"1-2 “Estou aqui, Docinhos! Dê-nos um beijinho!” Sofra 1 dado de danos mentais",
+			"0 “Criancinhas malcriadas devem ser castigadas!” Sofra 2 dados de danos físicos."
+		]
+	},
+	{
+		"id": "27",
+		"title": "Possessão",
+		"description": "Uma sombra surge da parede. Enquanto você fica em choque, a sombra o cerca e o gela até os ossos.",
+		"action": [
+			"Você deve escolher qualquer atributo e tentar uma rolagem deste atributo:",
+			"4+ Você resiste à corrupção da sombra. Ganhe 1 ponto em um atributo de sua escolha."
+		]
+	},
+	{
+		"id": "28",
+		"title": "Parede Giratória",
+		"description": "Uma parede que gira para outro lugar.",
+		"action": [
+			"Coloque o marcador de Interruptor de Parede (Wall Switch token) numa parede sem saída neste cômodo ou num canto dele. Se não houver um cômodo do outro lado do Interruptor, compre peças de cômodos até encontrar um para este andar, então o coloque na casa. (Se não há mais cômodos para este andar, descarte esta carta.) Então coloque seu explorador no novo cômodo. Uma vez durante o turno de um explorador, se ele estiver em qualquer um dos cômodos, pode tentar uma rolagem de Conhecimento para usar o Interruptor de Parede:",
+			"3+ O explorador encontra o interruptor escondido e atravessa a parede. Isto não conta como 1 espaço de movimento.",
+			"0-2 O explorador não consegue encontrar o interruptor escondido e não pode atravessar."
+		]
+	},
+	{
+		"id": "29",
+		"title": "Apodrecido",
+		"description": "O cheiro neste cômodo é horrível. Cheira a morte, a sangue. Cheiro de um abatedouro.",
+		"action": [
+			"Você deve tentar uma rolagem de Sanidade:",
+			"5+ Cheiros estranhos, nada mais. Ganhe 1 ponto de Sanidade.",
+			"2-4 Perca 1 ponto de Força.",
+			"1 Perca 1 ponto de Força e 1 de Rapidez.",
+			"0 Você se curva, nauseado. Perca 1 ponto de Força, 1 de Rapidez, 1 de Conhecimento e 1 de Sanidade."
+		]
+	},
+	{
+		"id": "30",
+		"title": "Passagem Secreta",
+		"description": "Uma parte da parede desliza para o lado. Atrás dela, um túnel mofado o aguarda",
+		"action": [
+			"Coloque um marcador de Passagem Secreta (Secret Passage token) neste cômodo. Role 3 dados e coloque o segundo marcador da Passagem Secreta em:",
+			"6 Qualquer cômodo em jogo.",
+			"4-5 Qualquer cômodo no Piso Superior",
+			"2-3 Qualquer cômodo no Térreo.",
+			"0-1 Qualquer cômodo no Subsolo.",
+			"Você pode então usar a Passagem Secreta, mesmo se não tiver nenhum movimento restante. Mover-se de um marcador de Passagem Secreta até o outro conta como um espaço de movimento. (A passagem em si não conta como espaço). Em turnos posteriores, qualquer explorador pode usar a Passagem Secreta. Um explorador não pode terminar seu turno dentro da passagem."
+		]
+	},
+	{
+		"id": "31",
+		"title": "Escada Secreta",
+		"description": "Um horrível rangido ecoa por você. Você acaba de descobrir uma escada.",
+		"action": [
+			"Coloque um marcador de Escada Secreta (Secret Stairs token) neste cômodo e o segundo marcador num cômodo em jogo em outro andar. Mover-se de um marcador de Escada Secreta até o outro conta como um espaço de movimento. (A escada não conta como um espaço.)",
+			"Você pode seguir pela escada agora, mesmo se não tiver nenhum movimento restante. Se você seguir por ela neste turno, compre uma carta de evento no cômodo onde entrar."
+		]
+	},
+	{
+		"id": "32",
+		"title": "Vento Cortante",
+		"description": "O vento os apanha, crescendo lentamente até se tornar um uivo gritante.",
+		"action": [
+			"Cada explorador nos Jardins, Cemitério, Pátio, Torre, Sacada, ou num cômodo com uma janela para o exterior, deve tentar uma rolagem de Força:",
+			"5+ Você se mantém de pé.",
+			"3-4 O vento o derruba. Sofra 1 dado de danos físicos.",
+			"1-2 O vento gela sua alma. Sofra 1 dado de danos mentais.",
+			"0 O vento o derruba violentamente. Sofra 1 dado de danos físicos. Coloque um de seus itens (se você tiver um) no Saguão de Entrada. Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "33",
+		"title": "Silêncio",
+		"description": "Nos subterrâneos, tudo está silencioso. Mesmo os sons de respiração se foram.",
+		"action": [
+			"Cada explorador no Subsolo deve tentar uma rolagem de Sanidade:",
+			"4+ Você espera calmamente sua audição voltar.",
+			"1-3 Você grita em silêncio. Sofra 1 dado de danos mentais.",
+			"0 Você surta. Sofra 2 dados de danos mentais.",
+			"Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "34",
+		"title": "Esqueletos",
+		"description": "Mãe e filho, ainda abraçados.",
+		"action": [
+			"Coloque o marcador dos Esqueletos (Skeletons token) neste cômodo. Sofra 1 dado de danos mentais. Uma vez durante o turno de um explorador, este pode tentar uma rolagem de Sanidade para revistar os Esqueletos:",
+			"5+ Compre uma carta de item. Remova o marcador dos Esqueletos.",
+			"0-4 Você cava em volta, mas não encontra nada. Sofra 1 dado de danos mentais.",
+			"Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "35",
+		"title": "Fumaça",
+		"description": "Fumaça o envolve. Você tosse, enxugando as lágrimas.",
+		"action": [
+			"Coloque o marcador de Fumaça (Smoke token) neste cômodo. A Fumaça bloqueia a linha de visão para cômodos adjacentes. Um explorador rola 2 dados a menos (mínimo de 1 dado) em todas as rolagens de atributo enquanto estiver neste cômodo."
+		]
+	},
+	{
+		"id": "36",
+		"title": "Algo Escondido",
+		"description": "Há algo estranho neste cômodo, mas o quê? Algo está inquietando sua mente.",
+		"action": [
+			"Se você quer tentar descobrir esse algo estranho, tente uma rolagem de Conhecimento:",
+			"4+ Uma parte da parede desliza, revelando uma alcova. Compre uma carta de item.",
+			"0-3 Você não consegue descobrir nada, e isso o deixa maluco. Perca 1 ponto de Sanidade."
+		]
+	},
+	{
+		"id": "37",
+		"title": "Pegajoso",
+		"description": "O que se enroscou em seu tornozelo? Um inseto? Um tentáculo? Uma mão morta arranhando?",
+		"action": [
+			"Você deve tentar uma rolagem de Rapidez:",
+			"4+ Você se liberta. Ganhe 1 ponto de Rapidez.",
+			"1-3 Perca 1 ponto de Força.",
+			"0 Perca 1 ponto de Força e 1 de Rapidez"
+		]
+	},
+	{
+		"id": "38",
+		"title": "Aranha",
+		"description": "Uma aranha do tamanho de um punho gruda em seu ombro... e rasteja para seu cabelo.",
+		"action": [
+			"Você deve tentar uma rolagem de Rapidez para afastá-la ou uma de Sanidade para ficar imóvel:",
+			"4+ Ela se foi. Ganhe 1 ponto no atributo que você usou na rolagem.",
+			"1-3 Ela pica você. Sofra 1 dado de danos físicos.",
+			"0 Ela arranca um pedaço de você. Sofra 2 dados de danos físicos."
+		]
+	},
+	{
+		"id": "39",
+		"title": "O Sinal",
+		"description": "Lá fora. Você deve sair lá pra fora. Voar para a liberdade!",
+		"action": [
+			"Cada explorador nos Jardins, Cemitério, Torre, Sacada, ou num cômodo com uma janela para o exterior, deve tentar uma rolagem de Sanidade:",
+			"3+ Você sai da beirada.",
+			"0-2 Você salta para o Pátio. (Se ele não estiver em jogo, procure-o na pilha de cômodos, coloque-o na casa, e reembaralhe a pilha.) Coloque seu explorador nele e sofra 1 dado de danos físicos.",
+			"Cada resultado afeta apenas o explorador que fez a rolagem."
+		]
+	},
+	{
+		"id": "40",
+		"title": "A Perdida",
+		"description": "Uma mulher usando um vestido da Guerra Civil acena para você. Você entra em transe.",
+		"action": [
+			"Você deve tentar uma rolagem de Conhecimento. Se o resultado for 5 ou mais, você sai do transe e ganha 1 ponto de Conhecimento; do contrário, role 3 dados para ver para onde A Perdida o leva:",
+			"6 Coloque seu explorador no Saguão de Entrada",
+			"4-5 Coloque seu explorador no Mezanino Superior",
+			"2-3 Compre peças de cômodos até encontrar um de piso superior.",
+			"0-1 Compre peças de cômodos até encontrar um de subsolo.",
+			"Se esta carta lhe disser para comprar uma peça de cômodo de um andar específico, coloque a peça na casa, e coloque seu explorador nela. Se você chegar ao fim da pilha sem encontrar um cômodo do andar exigido, coloque seu explorador no Saguão de Entrada."
+		]
+	},
+	{
+		"id": "41",
+		"title": "A Voz",
+		"description": "“Eu estou debaixo do chão, enterrado debaixo do chão...” A voz sussurra uma vez, então se vai.",
+		"action": [
+			"Você deve tentar uma rolagem de Conhecimento:",
+			"4+ Você encontra algo debaixo do chão. Compre uma carta de item",
+			"0-3 Você cava e procura pela voz, mas sem sucesso.",
+			"Você deve comprar a próxima peça de cômodo e colocá-la na casa. Coloque seu explorador neste cômodo."
+		]
+	},
+	{
+		"id": "42",
+		"title": "As Paredes",
+		"description": "Este cômodo é quente. Paredes de carne pulsam no ritmo uniforme da batida de um coração. Seu próprio coração bate no mesmo ritmo da casa. Você é puxado pra dentro das paredes... e ressurge em algum outro lugar.",
+		"action": [
+			"Você deve comprar a próxima peça de cômodo e colocá-la na casa. Coloque seu explorador neste cômodo"
+		]
+	},
+	{
+		"id": "43",
+		"title": "Teias",
+		"description": "Casualmente, você abana algumas teias para removê-las de seu caminho... mas elas não se afastam. Elas se enroscam em você.",
+		"action": [
+			"Você deve tentar uma rolagem de Força:",
+			"4+ Você se liberta. Ganhe 1 ponto de Força e descarte esta carta.",
+			"0-3 Você está preso. Mantenha esta carta.",
+			"Se você ficar preso, você não pode fazer nada até se libertar. Uma vez durante um turno de explorador, qualquer explorador pode tentar uma rolagem de Força para libertar você. (Você também pode tentar esta rolagem.) Um 4+ é um sucesso, mas você não ganha 1 ponto de Força. Qualquer um que falhar na tentativa não poderá se mover pelo resto do turno. Após 3 tentativas falhas, você se liberta automaticamente em seu próximo turno e o realiza normalmente. Quando você se libertar, descarte este evento."
+		]
+	},
+	{
+		"id": "44",
+		"title": "Mas Que ...?",
+		"description": "Quando você se vira para trás e olha para o caminho de onde veio, você vê... nada. Apenas uma névoa vazia no lugar onde o cômodo deveria estar.",
+		"action": [
+			"Pegue a peça de cômodo onde você está (depois de deixar tudo que está colocado nela de lado). Coloque-a em algum outro lugar no mesmo andar, conectando a porta em alguma outra porta livre (e recoloque tudo que você deixou de lado de volta). Se não houver nenhuma porta livre neste andar, mova o cômodo para um andar diferente."
+		]
+	},
+	{
+		"id": "45",
+		"title": "Êpa!",
+		"description": "Você sente um corpo debaixo de seu pé. Antes de você saltar pra longe dele, você é derrubado. O som de uma risadinha se afasta de você.",
+		"action": [
+			"Vire todas as suas cartas de item (não suas cartas de presságio) e embaralhe-as. O jogador à sua direita aleatoriamente descarta uma delas. Então desvire novamente suas cartas."
+		]
+	}
+]

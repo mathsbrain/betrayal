@@ -1,0 +1,133 @@
+[
+	{
+		"id": "1",
+		"title": "ANEL",
+		"description": "UM ANEL BASTANTE GASTO, COM UMA INSERICAO IMCOMPREENSIVEL",
+		"action": [
+			"Quando atacas um oponente com características baseadas em Sanidade, poderás atacar usando Sanidade ao invés de Força. O teu oponente defenderá com Sanidade e o dano causado em ambos será mental, ao invés de físico.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "2",
+		"title": "BOLA DE CRISTAL",
+		"description": "IMAGENS ENEVOADAS APARECEM NO VIDRO",
+		"action": [
+			"Uma vez por turno, após a assombração ter sido revelada, podes tentar uma rolagem de Conhecimento para espiar na bola de cristal.",
+			"[4+] Vês a verdade. Vasculha em qualquer das pilhas, escolhe 1 carta ou divisão e poe o (a) escolhido(a) no topo da pilha. Embaralha então a pilha vasculhada.",
+			"[1-3] Desvias o olhar. Perdes 1 de Sanidade.",
+			"[0] Vislumbras o inferno. Perdes 2 de Sanidade.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "3",
+		"title": "CÃO",
+		"description": "ESSE CAO SARNENTO PARECE AMIGAVEL, AO MENOS ESPERAS",
+		"action": [
+			"Ganha já 1 de Força e 1 de Sanidade. Perde 1 de Força e 1 de Sanidade, caso percas a posse do cachorro. Uma vez a cada turno, o cão pode mover-se para qualquer divisão explorada a uma distância de até 6 espaços, utilizando portas e escadas, e retornar. Ele pode pegar, carregar e/ou largar 1 item antes de retornar. Essa carta não pode ser descartada, trocada ou roubada.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "4",
+		"title": "CAVEIRA",
+		"description": "UMA CAVEIRA, RACHADA E SEM DENTES",
+		"action": [
+			"Caso sofras dano mental, poderás transformá lo em dano físico.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "5",
+		"title": "DENTADA",
+		"description": "UM ROSNADO, O AROMA DA MORTE. DOR. ESCURIDAO. SUMIU",
+		"action": [
+			"Quando pegas esta carta, algo te morde. O jogador à tua direita rola um ataque Força 4 contra ti, representando a misteriosa coisa que te mordeu (e depois fugiu para a escuridão).",
+			"Esta carta não pode ser descartada, trocada ou roubada.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "6",
+		"title": "JOGO DO COPO",
+		"description": "UM TABULEIRO DE OUMA, COM LETRAS E NUMEROS, PARA CHAMAR COM OS MORTOS",
+		"action": [
+			"Antes de te moveres no teu próximo turno, podes ver a primeira carta da pilha de divisões. Se utilizares o tabuleiro de Ouija após a assombração ter sido revelada, o traidor pode mover qualquer número de monstros 1 espaço mais próximo de ti (se tu és o traidor, nada acontece). Se não houver traidor, todos os monstros se aproximam 1 espaço de ti.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "7",
+		"title": "LANÇA",
+		"description": "UMA ARMA VIBRANDO DE PODER.",
+		"action": [
+			"Rolas 2 dados adicionais (máximo de 8) quando fizeres um ataque físico usando esta arma.",
+			"Não poderás usar outra arma enquanto estiveres usando a lança.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "8",
+		"title": "LIVRO",
+		"description": "UM DIARIO OU NOTAS DE LABORATORIO? UM MANUSCRITO ANTIGO OU UMA ESCRITA MODERNA DELIRANTE?",
+		"action": [
+			"Ganha já 2 de Conhecimento.",
+			"Perdes 2 de Conhecimento caso percas o livro.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "9",
+		"title": "LOUCO",
+		"description": "UM LOUCO, ESPUMANDO, DELIRANDO.",
+		"action": [
+			"Ganha já 2 de Força e perde 1 de Sanidade.",
+			"Perdes 2 de Força e ganhas 1 de Sanidade caso percas a posse do louco.",
+			"Esta carta não pode ser descartada, trocada ou roubada.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "10",
+		"title": "MASCARA",
+		"description": "UMA MASCARA SOMBRIA PARA ESCONDER AS TUAS INTENCOES",
+		"action": [
+			"Uma vez, no teu turno, podes tentar uma rolagem de Sanidade para usar a máscara. [4+] Podes colocar ou tirar a máscara:",
+			"[1] - Se puseres a máscara, ganhas 2 de Conhecimento e perdes 2 de Sanidade.",
+			"[2] - Se tirares a máscara, ganhas 2 de Sanidade e perdes 2 de Conhecimento.",
+			"[0-3] Não podes usá-la neste turno.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "11",
+		"title": "MEDALHAO",
+		"description": "UM MEDALHAO COM UM PENTAGRAMA GRAVADO.",
+		"action": [
+			"Estás imune aos efeitos do Quarto do Pentagrama, da Cripta e do Cemitério.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "12",
+		"title": "MENINA",
+		"description": "UMA MENINA. PRESA NOMA ARMADILHA. SOZINHA. TU LIBERTA ELA",
+		"action": [
+			"Ganha já 1 Sanidade e 1 Conhecimento.",
+			"Perdes 1 Sanidade e 1 Conhecimento caso percas a posse da menina.",
+			"Esta carta não pode ser descartada, trocada ou roubada.",
+			"Faça uma rolagem de assombração agora."
+		]
+	},
+	{
+		"id": "13",
+		"title": "SIMBOLO SAGRADO",
+		"description": "UM SIMBOLO DE SERENIDADE NUM MUNDO PERTUBADOR.",
+		"action": [
+			"Ganha já 2 de Sanidade.",
+			"Perdes 2 de Sanidade caso percas o símbolo sagrado.",
+			"Faça uma rolagem de assombração agora."
+		]
+	}
+]
