@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview:
+Live Preview: https://betrayal.vercel.app/
 
 <!-- ## 🎨 Inspiração:
 
